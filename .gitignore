@@ -1,0 +1,8 @@
+.vs
+Debug
+Generated Files
+packages
+
+x64
+obj
+*.cache

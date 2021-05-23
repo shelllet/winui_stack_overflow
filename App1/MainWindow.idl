@@ -1,0 +1,16 @@
+namespace App1
+{
+    [default_interface]
+    runtimeclass MainWindow : Microsoft.UI.Xaml.Window
+    {
+        MainWindow();
+        Int32 MyProperty;
+    }
+
+
+    runtimeclass Runtime
+    {
+        Runtime();
+        Int32 MyProperty;
+    }
+}
